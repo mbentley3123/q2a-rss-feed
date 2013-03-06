@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: RSS feed widget
-	Plugin URI: https://github.com/blaaa-blaaa-blaa
+	Plugin URI: https://github.com/mbentley3123/q2a-rss-feed
 	Plugin Description: Provides an RSS feed in the sidebar
 	Plugin Version: 0.1
 	Plugin Date: 2013-03-04
