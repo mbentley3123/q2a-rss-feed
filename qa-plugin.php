@@ -3,7 +3,7 @@
 	Plugin Name: RSS feed widget
 	Plugin URI: https://github.com/mbentley3123/q2a-rss-feed
 	Plugin Description: Provides an RSS feed in the sidebar
-	Plugin Version: 0.1
+	Plugin Version: 0.2
 	Plugin Date: 2013-03-04
 	Plugin Author: Mark Bentley
 	Plugin Author URI: http://BentleyDesigns.thebentleys.ca/
