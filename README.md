@@ -27,6 +27,8 @@ Currently, the module reqiures the following fields:
 Optional
 - pubDate
 
+This module does not currently support FeedBurner HTML feeds.
+
 
 Pay What You Like
 -------------------------------------------------
@@ -41,3 +43,20 @@ For More information on RSS
 http://cyber.law.harvard.edu/rss/rss.html
 http://en.wikipedia.org/wiki/RSS
 http://www.rss-specifications.com/
+
+Changes
+-------------------------------------------------
+
+
+
+0.3
+- Added parameter to limit the length shown.
+- Added an image width limiter - NOTE: if you do not supply the image size in the RSS feed then it can be slow because it has to load the image to get the size before it can proceed.
+
+
+0.2
+- fixed issue reading some feeds and Feedburner
+
+
+0.1
+initial version
